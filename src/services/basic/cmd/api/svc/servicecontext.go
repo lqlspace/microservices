@@ -1,7 +1,7 @@
 package svc
 
 import (
-	"github.com/lqlspace/microservices/src/basic/cmd/api/config"
+	"github.com/lqlspace/microservices/src/services/basic/cmd/api/config"
 )
 
 type (

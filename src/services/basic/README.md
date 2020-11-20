@@ -4,7 +4,7 @@
 
 ## 设计图
 
- ![image](../images/Engine.png)
+ ![image](../../images/Engine.png)
 
 ### Engine服务引擎
 - 负责启动server;  

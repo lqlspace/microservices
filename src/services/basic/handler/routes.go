@@ -3,8 +3,8 @@ package handler
 import (
 	"net/http"
 
-	"github.com/lqlspace/microservices/src/basic/cmd/api/svc"
 	"github.com/lqlspace/microservices/src/engine"
+	"github.com/lqlspace/microservices/src/services/basic/cmd/api/svc"
 )
 
 func RegisterHandlers(e *engine.Engine, ctx *svc.ServiceContext) {
